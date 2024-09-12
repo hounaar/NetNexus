@@ -1,2 +1,2 @@
 *.php linguist-language=php
-*.ss linguist-language=ignore
+*.js linguist-language=ignore
