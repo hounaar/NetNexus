@@ -10,11 +10,11 @@ A collection of innovative web projects including a dynamic website, an engaging
 
 ## Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions!
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 
 Thank you for visiting our repository! If you have any questions or feedback, please open an issue or reach out directly.
