@@ -3,10 +3,16 @@ A collection of innovative web projects including a dynamic website, an engaging
 
 ## Projects
 
-1. Blue Pearl Chat Portal   
-2. Nigma Online Riddle Game
-3. Sandika Social Media
 
+
+
+<ul>
+  <li><a href="https://github.com/parsabe/NetNexus/tree/master/blue-pearl">1.Blue Pearl Chat Portal</a></li>
+  <li><a href="https://github.com/parsabe/NetNexus/tree/master/nigma">2.Nigma Online Riddle Game</a></li>
+   <li><a href="https://github.com/parsabe/NetNexus/tree/master/sandika">3.Sandika Social Media</a></li>
+   <li><a href="https://github.com/parsabe/NetNexus/tree/master/huffman">4.Huffman Algorithm</a></li>
+   
+</ul>
 
 ## Contributing
 
