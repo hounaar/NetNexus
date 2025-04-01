@@ -8,11 +8,11 @@ A collection of innovative web projects including a dynamic website, an engaging
 
 
 <ul>
-  <li><a href="https://github.com/parsabe/NetNexus/tree/master/blue-pearl">1.Blue Pearl Chat Portal</a></li>
-  <li><a href="https://github.com/parsabe/NetNexus/tree/master/nigma">2.Nigma Online Riddle Game</a></li>
-   <li><a href="https://github.com/parsabe/NetNexus/tree/master/sandika">3.Sandika Social Media</a></li>
-   <li><a href="https://github.com/parsabe/NetNexus/tree/master/huffman">4.Huffman Algorithm</a></li>
-    <li><a href="https://github.com/hounaar/NetNexus/tree/master/PHPortal">4.PHPortal</a></li>
+  <li><a href="https://github.com/parsabe/NetNexus/tree/master/blue-pearl">1. Blue Pearl Chat Portal</a></li>
+  <li><a href="https://github.com/parsabe/NetNexus/tree/master/nigma">2. Nigma Online Riddle Game</a></li>
+   <li><a href="https://github.com/parsabe/NetNexus/tree/master/sandika">3. Sandika Social Media</a></li>
+   <li><a href="https://github.com/parsabe/NetNexus/tree/master/huffman">4. Huffman Algorithm</a></li>
+    <li><a href="https://github.com/hounaar/NetNexus/tree/master/PHPortal">5. PHPortal</a></li>
    
    
 </ul>
